@@ -3,7 +3,7 @@
 VERSION=`cat version.txt`
 CDATE=`date --iso`
 
-echo "UrBackup Restore" > splash.txt
+echo "Central do Backup - BackupCloud" > splash.txt
 echo "Version: $VERSION" >> splash.txt
 echo "Created: $CDATE" >> splash.txt
 
