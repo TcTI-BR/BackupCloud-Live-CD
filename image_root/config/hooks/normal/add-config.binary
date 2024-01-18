@@ -3,8 +3,8 @@
 cat << "EOF" > connection_settings.json
 {
 	"no_config": true,
-	"keyboardLayout": "de",
-	"serverUrl": "urbackup://example.com",
+	"keyboardLayout": "pt-br",
+	"serverUrl": "backupcloud01.centraldobackup.com.br",
 	"serverAuthkey": "foobar"
 }
 EOF
